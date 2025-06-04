@@ -87,7 +87,7 @@ To use this license:
 1. **Add to your repository:**
    ```
    LICENSE: Parachute Commons License 1.0
-   Source: [this repo URL]
+   Source: [[PCL](https://github.com/quarterback/parachute-commons-license)]
    ```
 
 2. **Include in documentation:**
