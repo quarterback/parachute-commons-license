@@ -5,6 +5,8 @@
 *Version 1.0 | June 2025*
 *A lightweight framework for shared work in a volatile information era.*
 
+![License: Parachute Commons](https://img.shields.io/badge/License-Parachute_Commons-blue?style=flat-square)
+
 ---
 
 ## The Metaphor
